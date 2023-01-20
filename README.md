@@ -5,11 +5,15 @@ Please give this project a star if you find it useful or are using it to learn o
 
 # Reference
 
-Online classes
-Assignments
-Prerecorded classes
-PPT shared by Professor
-Quizzes
+1. Online classes
+
+2. Assignments
+
+3. Prerecorded classes
+
+4. PPT's
+
+5. Quizzes
 
 # Contact
 
