@@ -1,7 +1,8 @@
-# BITS-MTech-Software-engineering
+# BITS Pilani-MTech-Software-engineering
+
 Hi there 👋
 
-Welcome!
+Welcome! Purpose of this for my reference and also it will help other students.
 
 Personal notes that I keep throughout my time at BITS MTech-Software-engineering.
 
