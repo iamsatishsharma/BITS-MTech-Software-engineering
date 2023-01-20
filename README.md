@@ -2,7 +2,7 @@
 
 Hi there :wave:
 
-Welcome! Purpose of this for my reference and also it will help other students.
+Welcome! Purpose of this repository for my reference and also it will help other students.
 
 Personal notes that I keep throughout my time at BITS MTech-Software-engineering.
 
