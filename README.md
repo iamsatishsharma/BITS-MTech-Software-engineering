@@ -1,12 +1,12 @@
 # BITS Pilani-MTech-Software-engineering
 
-Hi there 👋
+Hi there :wave:
 
 Welcome! Purpose of this for my reference and also it will help other students.
 
 Personal notes that I keep throughout my time at BITS MTech-Software-engineering.
 
-# Follow and give a start *
+# Follow and give a start :star:
 Please give this project a star if you find it useful or are using it to learn or begin your solution. Thanks!
 
 # Reference
