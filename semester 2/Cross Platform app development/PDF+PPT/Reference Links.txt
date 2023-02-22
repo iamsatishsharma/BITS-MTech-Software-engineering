@@ -1,0 +1,13 @@
+Microservices demo
+
+https://github.com/GoogleCloudPlatform/microservices-demo
+
+
+
+https://www.tibco.com/resources/whitepaper/whitepaper-path-adopting-microservices-enterprise
+
+
+MS PowerApps Demo
+
+
+https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/5-powerapps-create-first
