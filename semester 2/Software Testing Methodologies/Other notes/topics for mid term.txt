@@ -1,0 +1,30 @@
+Test case
+Decision Tables (Cause-Effect table:Number of possible Combinations is given by 2 ^ n )
+Cause effect graph
+Equalence class testing (with all variation) -with test case-  have format
+	- equalence testing, 
+	- week robust, 
+	- strong robust, 
+	- week normal, 
+	- strong normal
+	- plotting graph 
+Boundry value analysis (BVA) (with all variation)- with test case - have format
+	- robust BVA
+	- worst case BVA
+	- robust worst case BVA
+	- Formula (very important)
+	- triangle example
+	- plotting graph 
+Code Based Techniques
+	-Control Flow
+	-Data Flow
+Graph theory
+McCabe
+
+(optional)
+Usage based testing
+	- Operational Profile
+	- Reliability Engineered Testing
+Based on Engineers experience and intuition
+	- Exploratory
+	- Ad-hoc 
