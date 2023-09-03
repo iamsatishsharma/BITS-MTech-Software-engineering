@@ -1,0 +1,3 @@
+https://www.devbridge.com/articles/what-comes-after-microservices-serverless/
+
+https://cloud.google.com/serverless
