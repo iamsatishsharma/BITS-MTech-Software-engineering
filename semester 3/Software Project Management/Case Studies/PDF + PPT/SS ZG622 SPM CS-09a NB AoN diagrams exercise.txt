@@ -1,0 +1,19 @@
+Activity on Node Diagrams - Exercise
+SS ZG622: Software Project Management – Narsi Bolloju
+1
+
+AoN diagram - 
+Find the critical path
+The longest path in the network above is START-B-C-E-G-END with a duration of 22 weeks. Hence, this path is the critical path
+
+
+
+Calculate ES, EF, LS, Float, LF
+
+AoN diagram - 
+Find the critical path
+Notes: ES/LS and EF/LF include both the first day (or week)  and last day  (week) of an activity.  
+As a result Float = LF-(ES-1)-Duration in the above diagram. 
+
+
+
